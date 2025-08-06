@@ -1,2 +1,14 @@
-# AI-Phishing-URL-detector
-AI-powered phishing URL detector using machine learning to identify malicious websites with 95%+ accuracy. Features advanced URL analysis, real-time prediction, and comprehensive visualization dashboard.
+# AI Phishing URL Detector
+
+A machine learning-based system to detect phishing URLs using advanced feature extraction and classification algorithms.
+
+## Features
+- Extracts 24+ features from URLs
+- Multiple ML models (Random Forest, Logistic Regression)
+- Real-time URL safety prediction
+- Comprehensive visualization dashboard
+- Model persistence with pickle
+
+## Installation
+```bash
+pip install -r requirements.txt
